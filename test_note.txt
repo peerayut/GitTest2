@@ -2,4 +2,4 @@ completely changed
 
 first conflict
 
-change locally
+change locally...
